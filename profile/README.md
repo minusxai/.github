@@ -1,4 +1,4 @@
-![logo](logo.png)
+![logo](https://raw.githubusercontent.com/minusxai/.github/master/profile/logo.png)
 
 # minusx.ai
 
